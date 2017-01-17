@@ -1,0 +1,4 @@
+-- To create a model, create a class to extend dnframework.DNFrameworkTable
+-- Override superclass methods.
+-- in the controller, override DNFrameworkSQLAdapter methods
+-- call the controller methods as shown in Sample.java
